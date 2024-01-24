@@ -1,14 +1,10 @@
-# smartHead
+# Smart Head
 
-This template should help get you started developing with Vue 3 in Vite.
+Application for demonstrating CRUD operations using the ReqRes API.
 
-## Recommended IDE Setup
+Technology stack: Vue3, Vite, Pinia, SCSS.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[Preview](https://dimakobzar7.github.io/smartHeadCRUD/).
 
 ## Project Setup
 
