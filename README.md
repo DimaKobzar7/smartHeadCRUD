@@ -4,7 +4,7 @@ Application for demonstrating CRUD operations using the ReqRes API.
 
 Technology stack: Vue3, Vite, Pinia, SCSS.
 
-[Preview](https://dimakobzar7.github.io/smartHeadCRUD/).
+[Preview](https://dimakobzar7.github.io/smartHeadCRUD/)
 
 ## Project Setup
 
